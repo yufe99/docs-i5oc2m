@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-dipf7f.keitaro-tech-rtb.online/sitemap.xml
